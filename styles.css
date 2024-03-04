@@ -370,14 +370,14 @@
     height: 525px;
     width: 400px;
     border-radius: 4px;
-    background-image: url('/images/Mens.jpg');
+    background-image: url('images/Mens.jpg');
     background-size: cover;
     position: relative;
     color: #fff;
 }
 
 .services__card:nth-child(2) {
-    background-image: url('/images/Womens.jpg');
+    background-image: url('images/Womens.jpg');
 
 }
 
